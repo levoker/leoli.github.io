@@ -1,12 +1,10 @@
-title: Matt Chapman # your name (or website title) here
-logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
+title: Hangyu (Leo) Li # your name (or website title) here
+logo: "/images/profilepic.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Data Scientist with 4+ years of commercial experience in analytics, strategy and sales and a master's degree in Data Science from Oxford University. Previously at Vodafone, VIMA Group (management consulting), Ovo Energy, HSBC.
-  <br><br>
-  Ranked in top 10% of undergraduate cohort at Cambridge University.
-  <br><br>
-  <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/">View my LinkedIn Profile</a> 
+  a professional with a distinguished tenure at Morgan Stanley, transitioning into a data science role after completing the IBM Data Science certificate courses. With a track record of managing business operations and improving operational efficiency, I specialize in leveraging Python and SQL to analyze data and draw meaningful, actionable insights. My experience includes developing machine learning models for NBA game prediction, market sentiment analysis, and stock/cryptocurrency market forecasting. Core strengths encompass data extraction, cleaning, visualization, and applying predictive modeling techniques to solve complex problems. 
+ 
+  <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/"> Click here to view my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
