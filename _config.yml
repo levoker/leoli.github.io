@@ -3,7 +3,7 @@ logo: "/images/profilepic.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   a professional with a distinguished tenure at Morgan Stanley, transitioning into a data science role after completing the IBM Data Science certificate courses. With a track record of managing business operations and improving operational efficiency, I specialize in leveraging Python and SQL to analyze data and draw meaningful, actionable insights. Core strengths encompass data extraction, cleaning, visualization, and applying predictive modeling techniques to solve complex problems. 
- <br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/leohyli/"> Click here to view my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
